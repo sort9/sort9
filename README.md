@@ -1,4 +1,4 @@
-<h1 align="center">⚙️ sort9 ⚙️</h1>
+<h1 align="center">⚙️ About Sort9 ⚙️</h1>
 
 <div align="center">
   
