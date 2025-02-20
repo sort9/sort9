@@ -12,7 +12,7 @@
 
 <div align="center">
   <h1>💻 Usual Tech 💻</h1>
-  <h2>Python, C, C++, Java, SQL, HTML, CSS, JavaScript, Node.js, Windows, and Linux</h2>
+  <h2>Python, C, C++, Java, SQL, HTML, CSS, JavaScript, Node.js, Windows, Linux, VMWare</h2>
 </div>
 
 <br />
