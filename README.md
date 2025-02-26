@@ -10,9 +10,4 @@
   <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=sort9&color=grey&style=for-the-badge"></a>
 </div>
 
-<div align="center">
-  <h1>💻 Usual Tech 💻</h1>
-  <h2>Python, C, C++, Java, SQL, HTML, CSS, JavaScript, Node.js, Windows, Linux, VMWare</h2>
-</div>
-
 <br />
